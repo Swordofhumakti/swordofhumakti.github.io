@@ -2,7 +2,7 @@
 title: "System Risk"
 date: 2022-06-19 16:50
 categories: [Wooden Sword, System Risk, Risk]
-tags: [Risk. Thoughts, Draft]
+tags: [Risk, Thoughts, Draft]
 ---
 
 # Executive Summary
