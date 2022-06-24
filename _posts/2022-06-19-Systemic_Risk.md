@@ -14,3 +14,13 @@ I would suggest that a better way to look at systemic risk is that when particip
 
 
 ## Background
+
+The following statement fro CPMI-IOSCO defines what they view as systemic risk:- 
+
+The CPMI-IOSCO Principles for FMIs define Systemic Risk as “the inability of one or more participants to perform as expected [which] could cause other participants to be unable to meet their obligations when due. In such circumstances, a variety of “knock-on” effects are possible, and an FMI’s inability to complete settlement could have significant adverse effects on the markets it serves and the broader economy”, which in turn “might lead to further disruptions in the financial system and undermine public confidence in the safety, soundness, and reliability of the financial infrastructure”. 
+
+ Committee on Payments and Market Infrastructures (CPMI) 
+INTERNATIONAL ORGANIZATION OF SECURITIES COMMISSION (ISOCO) 
+
+https://www.iosco.org/
+
