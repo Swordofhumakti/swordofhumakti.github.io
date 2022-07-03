@@ -1,0 +1,22 @@
+---
+title: "My Home Network"
+date: 2022-07-03 19:00
+categories: [HomeNetwork,Homelab]
+tags: [PiHole, Draft]
+---
+
+# Overview
+
+
+
+## Pi-hole
+
+2022-03-07, Built a Pi-hole in a lxc on proxmox. 
+Ubuntu 22.01 currently not supported on Pi-Hole. 
+
+
+
+### BT HomeHub Issues
+
+You cant change the DNS settings on the BThomeHub, this will mean i will neeed to run my own DHCP service. This will wait until i have built a proxmox cluster, or a Pi-hole cluster. 
+
